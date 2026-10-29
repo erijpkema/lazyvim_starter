@@ -43,7 +43,9 @@ return {
     },
   },
   {
-    "jabirali/vim-tmux-yank",
+    "revarcline/vim-tmux-yank",
+    lazy = false,
+    enabled = false,
   },
   -- nvim v0.8.0
   "kdheepak/lazygit.nvim",

@@ -3,3 +3,5 @@
 -- Add any additional options here
 -- I use this at work to prevent formatting all the nice work of my colleagues.
 --  vim.g.autoformat = false
+--
+vim.opt.clipboard = "unnamedplus"
